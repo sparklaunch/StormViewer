@@ -23,6 +23,8 @@
 		2E48F4722653554A00FB47D2 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E48F4682653554A00FB47D2 /* nssl0043.jpg */; };
 		2E48F4732653554A00FB47D2 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E48F4692653554A00FB47D2 /* nssl0033.jpg */; };
 		2E48F4742653554A00FB47D2 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E48F46A2653554A00FB47D2 /* nssl0034.jpg */; };
+		2E48F4772654C9BD00FB47D2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E48F4752654C9BD00FB47D2 /* DetailViewController.swift */; };
+		2E48F4782654C9BD00FB47D2 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E48F4762654C9BD00FB47D2 /* DetailViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +46,8 @@
 		2E48F4682653554A00FB47D2 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
 		2E48F4692653554A00FB47D2 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		2E48F46A2653554A00FB47D2 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		2E48F4752654C9BD00FB47D2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		2E48F4762654C9BD00FB47D2 /* DetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 			isa = PBXGroup;
 			children = (
 				2E48F44D2653531200FB47D2 /* ViewController.swift */,
+				2E48F4752654C9BD00FB47D2 /* DetailViewController.swift */,
+				2E48F4762654C9BD00FB47D2 /* DetailViewController.xib */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -195,6 +201,7 @@
 				2E48F46B2653554A00FB47D2 /* nssl0049.jpg in Resources */,
 				2E48F4702653554A00FB47D2 /* nssl0041.jpg in Resources */,
 				2E48F4712653554A00FB47D2 /* nssl0042.jpg in Resources */,
+				2E48F4782654C9BD00FB47D2 /* DetailViewController.xib in Resources */,
 				2E48F4562653531400FB47D2 /* LaunchScreen.storyboard in Resources */,
 				2E48F4532653531400FB47D2 /* Assets.xcassets in Resources */,
 				2E48F46E2653554A00FB47D2 /* nssl0045.jpg in Resources */,
@@ -212,6 +219,7 @@
 				2E48F44E2653531200FB47D2 /* ViewController.swift in Sources */,
 				2E48F44A2653531200FB47D2 /* AppDelegate.swift in Sources */,
 				2E48F44C2653531200FB47D2 /* SceneDelegate.swift in Sources */,
+				2E48F4772654C9BD00FB47D2 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
